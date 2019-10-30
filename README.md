@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h3 align="center">MaterializeCSS</h3>
+<h2 align="center">MaterializeCSS</h2>
 
 <p align="center">
   Materialize, a CSS Framework based on material design.
